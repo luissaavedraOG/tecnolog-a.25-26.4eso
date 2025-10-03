@@ -26,3 +26,12 @@ Como podemos ver en las siguientes imagenes, uno de los problenas del invernader
 <p align="center">
 <img src="imagenes/invernadero7.jpg" width="900" height="900" />
 </p>
+
+
+## Solucines invernadero:
+
+Uno de los problemas mas importantes de la estructura del inverndero es la siguiente viga de madera remarcada en rojo 
+
+<p align="center">
+<img src="imagenes/invernadero_sol1.jpg" width="900" height="900" />
+</p>
