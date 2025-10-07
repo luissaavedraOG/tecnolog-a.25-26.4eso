@@ -40,7 +40,7 @@ Uno de los problemas mas importantes de la estructura del inverndero es la sigui
 La solución séria añadir 2 vigas de madera como marca el color verde en la imagen de arriba.
 
 ### Problema 2:
-El seundo proble del invernadero son las verjas, ya que estan
+El seundo proble del invernadero son las verja que sotiene el agroflim, ya que esta muy descuidado y tiene muchos alembres salidos de su sitio que raja el agroflim
 
 
 
