@@ -30,7 +30,7 @@ Como podemos ver en las siguientes imagenes, uno de los problenas del invernader
 
 ## Solucines invernadero:
 
-Uno de los problemas mas importantes de la estructura del inverndero es la siguiente viga de madera remarcada en rojo 
+Uno de los problemas mas importantes de la estructura del inverndero es la siguiente viga de madera remarcada en rojo, esta esta undida por culpa del agrofilm(el plastico que recubre el invernadero) y las berjas que lo sostienen
 
 <p align="center">
 <img src="imagenes/invernadero_sol1.jpg" width="900" height="900" />
