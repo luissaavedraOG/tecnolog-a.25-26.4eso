@@ -30,18 +30,21 @@ Como podemos ver en las siguientes imagenes, uno de los problenas del invernader
 
 ## Solucines invernadero:
 
-### Problema 1:
+### Problema 1: Vigas de madera dobladas
 Uno de los problemas mas importantes de la estructura del inverndero es la siguiente viga de madera remarcada en rojo, esta undida por culpa del peso del agrofilm(el plastico que recubre el invernadero) y las verjas que lo sostienen.
 
 <p align="center">
 <img src="imagenes/invernadero_sol1.jpg" width="900" height="900" />
 </p>
 
-La solución séria añadir 2 vigas de madera como marca el color verde en la imagen de arriba.
+Solución: La solucíon seria añadir 2 vigas de madera como marca el color verde en la imagen de arriba en ambos lados.
 
-### Problema 2:
-El seundo proble del invernadero son las verja que sotiene el agroflim, ya que esta muy descuidado y tiene muchos alembres salidos de su sitio que raja el agroflim
+### Problema 2: Verja de alambres
+El seundo proble del invernadero son las verja que sotiene el agroflim, ya que esta muy descuidado y tiene muchos alembres salidos de su sitio que rajan el agroflim.
 
+Solución: retirar la verja y cambiara por completo seria muy costoso, asi que retriraremos agroflim y reglaremos los alambres salidos, cortando los excesos de alambre y tapando los extremos con algun tipo de plastilina, el objetivo es eliminar las puntas afiladas que puedan romper el agroflim.
+
+### Problema 3: Agroflim roto
 
 
 
