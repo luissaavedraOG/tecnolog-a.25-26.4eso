@@ -53,7 +53,7 @@ Solución: retirar la verja y cambiara por completo seria muy costoso, asi que r
 ### Problema 4: Suelo roto.
 
 <p align="center">
-<img src="imagenes/invernadero8.jpg" width="450" height="900" />
+<img src="imagenes/invernadero8.jpg" width="500" height="900" />
 </p>
 
 ### Problema 5: Ventana y Puerta:
