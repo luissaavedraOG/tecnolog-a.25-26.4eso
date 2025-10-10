@@ -46,12 +46,14 @@ Solución: retirar la verja y cambiara por completo seria muy costoso, asi que r
 
 ### Problema 3: Agroflim roto.
 
-
+<p align="center">
+<img src="imagenes/invernadero6_sol.jpg" width="900" height="900" />
+</p>
 
 ### Problema 4: Suelo roto.
 
 <p align="center">
-<img src="imagenes/invernadero8.jpg" width="900" height="900" />
+<img src="imagenes/invernadero8.jpg" width="600" height="900" />
 </p>
 
 ### Problema 5: Ventana y Puerta:
