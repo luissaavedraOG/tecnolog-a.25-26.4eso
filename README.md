@@ -57,3 +57,13 @@ Solución: retirar la verja y cambiara por completo seria muy costoso, asi que r
 </p>
 
 ### Problema 5: Ventana y Puerta:
+
+Ventana:
+<p align="center">
+<img src="imagenes/invernadero9.jpg" width="900" height="900" />
+</p>
+
+Puerta:
+<p align="center">
+<img src="imagenes/invernadero1_sol.jpg" width="900" height="900" />
+</p>
