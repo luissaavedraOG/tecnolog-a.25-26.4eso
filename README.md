@@ -42,7 +42,7 @@ Solución: La solucíon seria añadir 2 vigas de madera como marca el color verd
 ### Problema 2: Verja de alambres
 El segundo problema del invernadero son las verjas que sotiene el agroflim, ya que esta muy descuidado y tiene muchos alembres salidos de su sitio que rajan el agroflim.
 
-Solución: retirar la verja y cambiara por completo seria muy costoso, asi que retriraremos agroflim y reglaremos los alambres salidos, cortando los excesos de alambre y tapando los extremos con algun tipo de plastilina, el objetivo es eliminar las puntas afiladas que puedan romper el agroflim.
+Solución: Retirar la verja y cambiara por completo seria muy costoso, asi que retriraremos agroflim y arreglaremos los alambres salidos, cortando los excesos de alambre y tapando los extremos con algun tipo de plastilina, el objetivo es eliminar las puntas afiladas que puedan romper el agroflim.
 
 ### Problema 3: Agroflim roto.
 
@@ -50,6 +50,9 @@ Solución: retirar la verja y cambiara por completo seria muy costoso, asi que r
 <img src="imagenes/invernadero6_sol.jpg" width="900" height="900" />
 </p>
 
+Como se puede ver en todas las imagenes, el agroflim esta muy desgastado, viejo por la exposición al sol y contacto con el oxido
+
+Solución: Cambiarlo por uno nuevo, al que habria que unir con una grapadora industrial
 ### Problema 4: Suelo roto.
 
 <p align="center">
