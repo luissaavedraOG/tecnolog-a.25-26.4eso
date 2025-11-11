@@ -1,7 +1,7 @@
 #Plan lector
 
 1. __Lectura__:Electrónica digital: qué es y características.
-https://www.seas.es/blog/automatizacion/electronica-digital-que-es-y-caracteristicas/
+     https://www.seas.es/blog/automatizacion/electronica-digital-que-es-y-caracteristicas/
 
   1. ¿Qué es la electrónica digital?
   2. ¿En qué se basa el funcionamiento de la electrónica digital?
