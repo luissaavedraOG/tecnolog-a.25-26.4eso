@@ -1,6 +1,6 @@
 #Plan lector
 
-1. __Lectura__:Electrónica digital: qué es y características.
+__1. Lectura__:Electrónica digital: qué es y características.
 
      https://www.seas.es/blog/automatizacion/electronica-digital-que-es-y-caracteristicas/
 
