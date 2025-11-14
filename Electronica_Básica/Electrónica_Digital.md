@@ -14,6 +14,7 @@
 | --- | --- |
 | 0 | 1 |
 | 1 | 0 |
+
 -Donde se pueden encontrar
 
 ### AND(y)
