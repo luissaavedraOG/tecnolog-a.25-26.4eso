@@ -14,7 +14,12 @@
 
 -Variedades.
 
-### Resistencias variables (potenciómetros, NTC, PTC y LDR).
+### Resistencias variables 
+
+__-Potenciómetro__
+__-NTC__
+__-PTC__
+__-LDR__
 
 -¿Para qué sirve?
 
