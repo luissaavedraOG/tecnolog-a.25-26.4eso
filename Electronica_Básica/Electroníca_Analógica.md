@@ -17,7 +17,7 @@ LEDs, divisores de tensión, filtros.
 De carbón, metálicas, bobinadas, SMD.
 
 ### Resistencias variables
-potenciómetros
+**potenciómetros**
 
 -¿Para qué sirve?
 Ajustar y variar manualmente la resistencia para controlar voltajes o señales.
@@ -35,7 +35,7 @@ Controles de volumen, brillo, ajustes en circuitos.
 -Variedades.
 Lineales, logarítmicos, multivueltas.
 
-NTC
+**NTC**
 -¿Para qué sirve?
 Medir temperatura; su resistencia disminuye al aumentar la temperatura.
 
@@ -52,7 +52,7 @@ Sensores térmicos, protección contra sobrecalentamiento.
 -Variedades.
 Encapsuladas en disco, perla, SMD.
 
-PTC
+**PTC**
 -¿Para qué sirve?
 Protección contra sobrecorriente; su resistencia aumenta con la temperatura.
 
@@ -69,7 +69,7 @@ Fusibles resetables, protectores térmicos.
 -Variedades.
 De disco, cilíndricas, SMD.
 
-LDR
+**LDR**
 -¿Para qué sirve?
 Detectar intensidad luminosa; su resistencia disminuye con la luz.
 
@@ -86,7 +86,7 @@ Sensores de luz, sistemas automáticos de iluminación.
 -Variedades.
 De diferentes tamaños y encapsulados.
 
-Condensadores.
+**Condensadores.**
 -¿Para qué sirve?
 Almacenar energía eléctrica y filtrar o acoplar señales.
 
@@ -103,7 +103,7 @@ Fuentes, filtros, temporizadores, acoplamientos.
 -Variedades.
 Cerámicos, electrolíticos, de poliéster, tantalio.
 
-Diodos.
+### Diodos.
 -¿Para qué sirve?
 Permitir el flujo de corriente en un solo sentido.
 
@@ -120,7 +120,7 @@ Rectificadores, protección, regulación.
 -Variedades.
 Rectificadores, Zener, Schottky, LED.
 
-LED.
+### LED.
 -¿Para qué sirve?
 Emitir luz al paso de corriente.
 
@@ -137,7 +137,7 @@ Indicadores, iluminación, pantallas.
 -Variedades.
 RGB, alta potencia, difusos.
 
-Transistores.
+### Transistores.
 -¿Para qué sirve?
 Amplificar señales y funcionar como interruptores.
 
@@ -154,7 +154,7 @@ Amplificadores, conmutación, circuitos lógicos.
 -Variedades.
 BJT, MOSFET, JFET.
 
-Relés.
+### Relés.
 -¿Para qué sirve?
 Controlar circuitos de potencia con señales de baja potencia.
 
