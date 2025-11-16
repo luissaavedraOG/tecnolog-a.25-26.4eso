@@ -11,7 +11,11 @@ Material resistivo que opone una resistencia fija al paso de corriente.
 
 -Símbolo eléctrico.
 
+
+
 -Imagen real.
+
+
 
 -Algunas aplicaciones de uso.
 
@@ -35,7 +39,11 @@ Cursor móvil que varía el contacto sobre una pista resistiva.
 
 -Símbolo eléctrico.
 
+
+
 -Imagen real.
+
+
 
 -Algunas aplicaciones de uso.
 
@@ -52,6 +60,7 @@ Lineales, logarítmicos, multivueltas.
 Medir temperatura; su resistencia disminuye al aumentar la temperatura.
 
 -Funcionamiento interno.
+
 Óxidos metálicos con resistencia negativa según la temperatura.
 
 -Símbolo eléctrico.
@@ -59,16 +68,21 @@ Medir temperatura; su resistencia disminuye al aumentar la temperatura.
 -Imagen real.
 
 -Algunas aplicaciones de uso.
+
 Sensores térmicos, protección contra sobrecalentamiento.
 
 -Variedades.
+
 Encapsuladas en disco, perla, SMD.
 
 **PTC**
+
 -¿Para qué sirve?
+
 Protección contra sobrecorriente; su resistencia aumenta con la temperatura.
 
 -Funcionamiento interno.
+
 Material que incrementa su resistencia al elevarse la temperatura.
 
 -Símbolo eléctrico.
@@ -76,16 +90,21 @@ Material que incrementa su resistencia al elevarse la temperatura.
 -Imagen real.
 
 -Algunas aplicaciones de uso.
+
 Fusibles resetables, protectores térmicos.
 
 -Variedades.
+
 De disco, cilíndricas, SMD.
 
 **LDR**
+
 -¿Para qué sirve?
+
 Detectar intensidad luminosa; su resistencia disminuye con la luz.
 
 -Funcionamiento interno.
+
 Material semiconductor sensible a la luz que varía la resistencia.
 
 -Símbolo eléctrico.
@@ -96,13 +115,17 @@ Material semiconductor sensible a la luz que varía la resistencia.
 Sensores de luz, sistemas automáticos de iluminación.
 
 -Variedades.
+
 De diferentes tamaños y encapsulados.
 
 **Condensadores.**
+
 -¿Para qué sirve?
+
 Almacenar energía eléctrica y filtrar o acoplar señales.
 
 -Funcionamiento interno.
+
 Dos placas conductoras separadas por un dieléctrico que almacenan carga.
 
 -Símbolo eléctrico.
@@ -110,16 +133,21 @@ Dos placas conductoras separadas por un dieléctrico que almacenan carga.
 -Imagen real.
 
 -Algunas aplicaciones de uso.
+
 Fuentes, filtros, temporizadores, acoplamientos.
 
 -Variedades.
+
 Cerámicos, electrolíticos, de poliéster, tantalio.
 
 ### Diodos.
+
 -¿Para qué sirve?
+
 Permitir el flujo de corriente en un solo sentido.
 
 -Funcionamiento interno.
+
 Unión P-N que crea una barrera para la corriente en una sola dirección.
 
 -Símbolo eléctrico.
@@ -130,13 +158,17 @@ Unión P-N que crea una barrera para la corriente en una sola dirección.
 Rectificadores, protección, regulación.
 
 -Variedades.
+
 Rectificadores, Zener, Schottky, LED.
 
 ### LED.
+
 -¿Para qué sirve?
+
 Emitir luz al paso de corriente.
 
 -Funcionamiento interno.
+
 Diodo semiconductor que emite fotones al polarizarse.
 
 -Símbolo eléctrico.
@@ -144,16 +176,21 @@ Diodo semiconductor que emite fotones al polarizarse.
 -Imagen real.
 
 -Algunas aplicaciones de uso.
+
 Indicadores, iluminación, pantallas.
 
 -Variedades.
+
 RGB, alta potencia, difusos.
 
 ### Transistores.
+
 -¿Para qué sirve?
+
 Amplificar señales y funcionar como interruptores.
 
 -Funcionamiento interno.
+
 Capas semiconductoras que controlan grandes corrientes con señales pequeñas.
 
 -Símbolo eléctrico.
@@ -161,16 +198,21 @@ Capas semiconductoras que controlan grandes corrientes con señales pequeñas.
 -Imagen real.
 
 -Algunas aplicaciones de uso.
+
 Amplificadores, conmutación, circuitos lógicos.
 
 -Variedades.
+
 BJT, MOSFET, JFET.
 
 ### Relés.
+
 -¿Para qué sirve?
+
 Controlar circuitos de potencia con señales de baja potencia.
 
 -Funcionamiento interno.
+
 Electroimán que mueve contactos para abrir o cerrar un circuito.
 
 -Símbolo eléctrico.
@@ -178,6 +220,7 @@ Electroimán que mueve contactos para abrir o cerrar un circuito.
 -Imagen real.
 
 -Algunas aplicaciones de uso.
+
 Automatización, domótica, protección, control de motores.
 
 -Variedades.
