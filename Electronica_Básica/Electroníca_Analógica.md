@@ -1,6 +1,8 @@
 # Electroníca Analógica
 ### Resistencias fijas.
+
 -¿Para qué sirve?
+
 Limitar la corriente en circuitos eléctricos y dividir voltajes.
 
 -Funcionamiento interno.
