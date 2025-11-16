@@ -6,6 +6,7 @@
 Limitar la corriente en circuitos eléctricos y dividir voltajes.
 
 -Funcionamiento interno.
+
 Material resistivo que opone una resistencia fija al paso de corriente.
 
 -Símbolo eléctrico.
@@ -13,18 +14,22 @@ Material resistivo que opone una resistencia fija al paso de corriente.
 -Imagen real.
 
 -Algunas aplicaciones de uso.
+
 LEDs, divisores de tensión, filtros.
 
 -Variedades.
+
 De carbón, metálicas, bobinadas, SMD.
 
 ### Resistencias variables
 **potenciómetros**
 
 -¿Para qué sirve?
+
 Ajustar y variar manualmente la resistencia para controlar voltajes o señales.
 
 -Funcionamiento interno.
+
 Cursor móvil que varía el contacto sobre una pista resistiva.
 
 -Símbolo eléctrico.
@@ -32,13 +37,17 @@ Cursor móvil que varía el contacto sobre una pista resistiva.
 -Imagen real.
 
 -Algunas aplicaciones de uso.
+
 Controles de volumen, brillo, ajustes en circuitos.
 
 -Variedades.
+
 Lineales, logarítmicos, multivueltas.
 
 **NTC**
+
 -¿Para qué sirve?
+
 Medir temperatura; su resistencia disminuye al aumentar la temperatura.
 
 -Funcionamiento interno.
