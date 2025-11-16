@@ -22,6 +22,7 @@ LEDs, divisores de tensión, filtros.
 De carbón, metálicas, bobinadas, SMD.
 
 ### Resistencias variables
+
 **potenciómetros**
 
 -¿Para qué sirve?
