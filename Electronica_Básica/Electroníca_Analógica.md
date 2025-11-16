@@ -17,7 +17,9 @@ Material resistivo que opone una resistencia fija al paso de corriente.
 
 -Imagen real.
 
-
+<p align="center">
+<img src="imagenes/resistencia_real.png" width="900" height="900" />
+</p>
 
 -Algunas aplicaciones de uso.
 
@@ -41,11 +43,15 @@ Cursor móvil que varía el contacto sobre una pista resistiva.
 
 -Símbolo eléctrico.
 
-
+<p align="center">
+<img src="imagenes/poten_simbolo.png" width="900" height="900" />
+</p>
 
 -Imagen real.
 
-
+<p align="center">
+<img src="imagenes/poten_simbolo.png" width="900" height="900" />
+</p>
 
 -Algunas aplicaciones de uso.
 
@@ -67,7 +73,15 @@ Medir temperatura; su resistencia disminuye al aumentar la temperatura.
 
 -Símbolo eléctrico.
 
+<p align="center">
+<img src="imagenes/resistencia_simbolo.png" width="900" height="900" />
+</p>
+
 -Imagen real.
+
+<p align="center">
+<img src="imagenes/resistencia_simbolo.png" width="900" height="900" />
+</p>
 
 -Algunas aplicaciones de uso.
 
@@ -89,7 +103,15 @@ Material que incrementa su resistencia al elevarse la temperatura.
 
 -Símbolo eléctrico.
 
+<p align="center">
+<img src="imagenes/resistencia_simbolo.png" width="900" height="900" />
+</p>
+
 -Imagen real.
+
+<p align="center">
+<img src="imagenes/resistencia_simbolo.png" width="900" height="900" />
+</p>
 
 -Algunas aplicaciones de uso.
 
@@ -111,7 +133,15 @@ Material semiconductor sensible a la luz que varía la resistencia.
 
 -Símbolo eléctrico.
 
+<p align="center">
+<img src="imagenes/resistencia_simbolo.png" width="900" height="900" />
+</p>
+
 -Imagen real.
+
+<p align="center">
+<img src="imagenes/resistencia_simbolo.png" width="900" height="900" />
+</p>
 
 -Algunas aplicaciones de uso.
 Sensores de luz, sistemas automáticos de iluminación.
@@ -132,7 +162,15 @@ Dos placas conductoras separadas por un dieléctrico que almacenan carga.
 
 -Símbolo eléctrico.
 
+<p align="center">
+<img src="imagenes/resistencia_simbolo.png" width="900" height="900" />
+</p>
+
 -Imagen real.
+
+<p align="center">
+<img src="imagenes/resistencia_simbolo.png" width="900" height="900" />
+</p>
 
 -Algunas aplicaciones de uso.
 
@@ -154,7 +192,15 @@ Unión P-N que crea una barrera para la corriente en una sola dirección.
 
 -Símbolo eléctrico.
 
+<p align="center">
+<img src="imagenes/diodo_simbolo.png" width="900" height="900" />
+</p>
+
 -Imagen real.
+
+<p align="center">
+<img src="imagenes/diodo_real.png" width="900" height="900" />
+</p>
 
 -Algunas aplicaciones de uso.
 Rectificadores, protección, regulación.
@@ -175,7 +221,15 @@ Diodo semiconductor que emite fotones al polarizarse.
 
 -Símbolo eléctrico.
 
+<p align="center">
+<img src="imagenes/LED_simbolo.png" width="900" height="900" />
+</p>
+
 -Imagen real.
+
+<p align="center">
+<img src="imagenes/LED_real.png" width="900" height="900" />
+</p>
 
 -Algunas aplicaciones de uso.
 
@@ -197,7 +251,15 @@ Capas semiconductoras que controlan grandes corrientes con señales pequeñas.
 
 -Símbolo eléctrico.
 
+<p align="center">
+<img src="imagenes/resistencia_simbolo.png" width="900" height="900" />
+</p>
+
 -Imagen real.
+
+<p align="center">
+<img src="imagenes/resistencia_simbolo.png" width="900" height="900" />
+</p>
 
 -Algunas aplicaciones de uso.
 
@@ -219,7 +281,15 @@ Electroimán que mueve contactos para abrir o cerrar un circuito.
 
 -Símbolo eléctrico.
 
+<p align="center">
+<img src="imagenes/rele_simbolo.png" width="900" height="900" />
+</p>
+
 -Imagen real.
+
+<p align="center">
+<img src="imagenes/rele_real.png" width="900" height="900" />
+</p>
 
 -Algunas aplicaciones de uso.
 
