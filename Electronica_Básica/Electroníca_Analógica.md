@@ -11,7 +11,9 @@ Material resistivo que opone una resistencia fija al paso de corriente.
 
 -Símbolo eléctrico.
 
-
+<p align="center">
+<img src="imagenes/resistencia_simbolo.png" width="900" height="900" />
+</p>
 
 -Imagen real.
 
