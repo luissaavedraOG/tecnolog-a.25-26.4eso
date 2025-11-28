@@ -6,9 +6,6 @@
 
 -Símbolo
 
-<p align="center">
-<img src="imagenesdelproyecto/logo_azzait.png" width="100" height="100" />
-</p>]
 
 -Función
 
@@ -26,7 +23,7 @@
 -Símbolo
 
 <p align="center">
-<img src="imagenes/AND.jpg" width="100" height="100" />
+<img src="imagenes/AND.jpg" width="300" height="200" />
 </p>
 
 -Función
