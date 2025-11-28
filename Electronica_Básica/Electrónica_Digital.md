@@ -6,7 +6,7 @@
 
 -Símbolo
 <p align="center">
-<img src="imagenes/NOT.jpg" width="300" height="200" />
+<img src="imagenes/NOT.webp" width="300" height="200" />
 </p>
 
 -Función
@@ -68,7 +68,7 @@
 -Símbolo
 
 <p align="center">
-<img src="imagenes/XOR.jpg" width="300" height="200" />
+<img src="imagenes/XOR.png" width="300" height="200" />
 </p>
 
 -Función
@@ -89,7 +89,7 @@
 -Símbolo
 
 <p align="center">
-<img src="imagenes/NOR.jpg" width="300" height="200" />
+<img src="imagenes/NOR.png" width="300" height="200" />
 </p>
 
 -Función
@@ -110,7 +110,7 @@
 -Símbolo
 
 <p align="center">
-<img src="imagenes/NAND.jpg" width="300" height="200" />
+<img src="imagenes/NAND.webp" width="300" height="200" />
 </p>
 
 -Función
