@@ -38,13 +38,23 @@ En resumen: la NOT hace lo contrario de lo que recibe.
 
 -Símbolo
 
-
-
 <p align="center">
 <img src="imagenes/AND.jpg" width="300" height="200" />
 </p>
 
 -Función
+
+La puerta lógica AND solo da un 1 en la salida cuando todas sus entradas son 1.
+
+1 AND 1 → 1
+
+1 AND 0 → 0
+
+0 AND 1 → 0
+
+0 AND 0 → 0
+
+En resumen: la AND solo “enciende” si todo lo que recibe está encendido.
 
 -Tabla de verdad
 
