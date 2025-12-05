@@ -4,25 +4,31 @@
 
 ### NOT(no)
 
--Símbolo
+-Símbolo:
 <p align="center">
 <img src="imagenes/NOT.webp" width="300" height="200" />
 </p>
 
--Función
+-Función:
 
--Tabla de verdad
+-Tabla de verdad:
 
 | a | S |
 | --- | --- |
 | 0 | 1 |
 | 1 | 0 |
 
--Donde se pueden encontrar
+-Distribuición interna
+
+
+
+-Donde se pueden encontrar:
 
 ### AND(y)
 
 -Símbolo
+
+
 
 <p align="center">
 <img src="imagenes/AND.jpg" width="300" height="200" />
@@ -38,6 +44,9 @@
 | 0 | 1 | 0 |
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
+
+-Distribuición interna
+
 
 -Donde se pueden encontrar
 
@@ -59,6 +68,10 @@
 | 0 | 1 | 1 |
 | 1 | 0 | 1 |
 | 1 | 1 | 1 |
+
+-Distribuición interna
+
+
 
 -Donde se pueden encontrar
 
@@ -82,6 +95,9 @@
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
+-Distribuición interna
+
+
 -Donde se pueden encontrar
 
 ### NOR(o negada)
@@ -102,6 +118,9 @@
 | 0 | 1 | 0 |
 | 1 | 0 | 0 |
 | 1 | 1 | 0 |
+
+-Distribuición interna
+
 
 -Donde se pueden encontrar
 
@@ -124,4 +143,12 @@
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
+-Distribuición interna
+
+
 -Donde se pueden encontrar
+
+
+
+## Proyectos puertas logicas
+
