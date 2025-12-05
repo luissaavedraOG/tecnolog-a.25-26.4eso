@@ -11,6 +11,7 @@
 
 -Función:
 
+
 La puerta lógica NOT es un componente que invierte la señal de entrada:
 
 -Si la entrada es 1, la salida será 0.
@@ -18,6 +19,7 @@ La puerta lógica NOT es un componente que invierte la señal de entrada:
 -Si la entrada es 0, la salida será 1.
 
 En resumen: la NOT hace lo contrario de lo que recibe.
+
 
 -Tabla de verdad:
 
