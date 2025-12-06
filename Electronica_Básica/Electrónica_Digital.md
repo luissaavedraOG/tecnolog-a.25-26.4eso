@@ -67,7 +67,7 @@ En resumen: la AND solo “enciende” si todo lo que recibe está encendido.
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
--Distribuición interna
+-Distribuición interna2
 
 
 -Donde se pueden encontrar
@@ -110,7 +110,7 @@ En resumen: la OR “enciende” si alguna de sus entradas está encendida.
 | 1 | 0 | 1 |
 | 1 | 1 | 1 |
 
--Distribuición interna
+-Distribuición interna3
 
 
 
@@ -153,7 +153,7 @@ En resumen: la XOR “enciende” si exactamente una de las entradas está encen
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
--Distribuición interna
+-Distribuición interna4
 
 
 -Donde se pueden encontrar
@@ -189,7 +189,7 @@ En resumen: la NOR solo “enciende” cuando todo lo que recibe está apagado.
 | 1 | 0 | 0 |
 | 1 | 1 | 0 |
 
--Distribuición interna
+-Distribuición interna5
 
 
 
@@ -228,7 +228,8 @@ En resumen: la NAND está “apagada” solo cuando todo lo que recibe está enc
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
--Distribuición interna
+-Distribuición interna6
+
 
 
 -Donde se pueden encontrar
