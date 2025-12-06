@@ -243,7 +243,7 @@ En resumen: la NAND está “apagada” solo cuando todo lo que recibe está enc
 -Distribuición interna6
 
 <p align="center">
-<img src="imagenes/di_anad.png" width="300" height="200" />
+<img src="imagenes/di_nand.png" width="300" height="200" />
 </p>
 
 -Donde se pueden encontrar
