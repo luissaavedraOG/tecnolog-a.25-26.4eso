@@ -29,7 +29,9 @@ En resumen: la NOT hace lo contrario de lo que recibe.
 
 -Distribuición interna1
 
-
+<p align="center">
+<img src="imagenes/di_not1.jpeg" width="300" height="200" />
+</p>
 
 -Donde se pueden encontrar:
 
@@ -69,6 +71,9 @@ En resumen: la AND solo “enciende” si todo lo que recibe está encendido.
 
 -Distribuición interna2
 
+<p align="center">
+<img src="imagenes/di_and2.png" width="300" height="200" />
+</p>
 
 -Donde se pueden encontrar
 
@@ -112,7 +117,9 @@ En resumen: la OR “enciende” si alguna de sus entradas está encendida.
 
 -Distribuición interna3
 
-
+<p align="center">
+<img src="imagenes/di_or3.png" width="300" height="200" />
+</p>
 
 -Donde se pueden encontrar
 
@@ -155,6 +162,9 @@ En resumen: la XOR “enciende” si exactamente una de las entradas está encen
 
 -Distribuición interna4
 
+<p align="center">
+<img src="imagenes/di_xor4.png" width="300" height="200" />
+</p>
 
 -Donde se pueden encontrar
 
@@ -191,7 +201,9 @@ En resumen: la NOR solo “enciende” cuando todo lo que recibe está apagado.
 
 -Distribuición interna5
 
-
+<p align="center">
+<img src="imagenes/di_nor5.png" width="300" height="200" />
+</p>
 
 -Donde se pueden encontrar
 
@@ -230,7 +242,9 @@ En resumen: la NAND está “apagada” solo cuando todo lo que recibe está enc
 
 -Distribuición interna6
 
-
+<p align="center">
+<img src="imagenes/di_anad.png" width="300" height="200" />
+</p>
 
 -Donde se pueden encontrar
 
