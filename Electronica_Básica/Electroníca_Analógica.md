@@ -49,6 +49,18 @@ Cursor móvil que varía el contacto sobre una pista resistiva.
 
 -Imagen real.
 
+Potenciometro: La resistencia varia segun la posicion.
+
+
+
+LDR: La resistencia varia segun la cantidad de luz.
+
+NTC: Si la temperatura sube la resistencia de los omios baja.
+
+PTC: Si la temperatura sube la resistencia de los omios tambien.
+
+
+
 <p align="center">
 <img src="imagenes/poten_simbolo.png" width="900" height="900" />
 </p>
