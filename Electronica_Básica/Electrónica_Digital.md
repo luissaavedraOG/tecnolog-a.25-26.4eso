@@ -293,21 +293,21 @@ Implementación interna de memorias, microcontroladores y otros circuitos integr
 </p>
 
 <p align="center">
-<img src="imagenes/ 3p_1.jpg" width="800" height="600" />
+<img src="imagenes/3p_1.jpg" width="800" height="600" />
 </p>
 
 <p align="center">
-<img src="imagenes/ 3p_2.jpg" width="800" height="600" />
+<img src="imagenes/3p_2.jpg" width="800" height="600" />
 </p>
 
 <p align="center">
-<img src="imagenes/ 3p_3.jpg" width="800" height="600" />
+<img src="imagenes/3p_3.jpg" width="800" height="600" />
 </p>
 
 <p align="center">
-<img src="imagenes/ 3p_4.jpg" width="800" height="600" />
+<img src="imagenes/3p_4.jpg" width="800" height="600" />
 </p>
 
 <p align="center">
-<img src="imagenes/ 3p_5.jpg" width="800" height="600" />
+<img src="imagenes/3p_5.jpg" width="800" height="600" />
 </p>
