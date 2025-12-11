@@ -12,13 +12,13 @@ Material resistivo que opone una resistencia fija al paso de corriente.
 -Símbolo eléctrico.
 
 <p align="center">
-<img src="imagenes/resistencia_simbolo.png" width="900" height="900" />
+<img src="imagenes/AS_resistencia.jpg" width="900" height="900" />
 </p>
 
 -Imagen real.
 
 <p align="center">
-<img src="imagenes/resistencia_real.png" width="900" height="900" />
+<img src="imagenes/AR_resistencia.avif" width="900" height="900" />
 </p>
 
 -Algunas aplicaciones de uso.
@@ -35,7 +35,7 @@ De carbón, metálicas, bobinadas, SMD.
 
 -¿Para qué sirve?
 
-Ajustar y variar manualmente la resistencia para controlar voltajes o señales.
+Sirve para ajustar y variar manualmente la resistencia para controlar voltajes o señales.
 
 -Funcionamiento interno.
 
@@ -44,20 +44,12 @@ Cursor móvil que varía el contacto sobre una pista resistiva.
 -Símbolo eléctrico.
 
 <p align="center">
-<img src="imagenes/poten_simbolo.png" width="900" height="900" />
+<img src="imagenes/AS_potenciometro.png" width="900" height="900" />
 </p>
 
 -Imagen real.
 
-Potenciometro: La resistencia varia segun la posicion.
 
-
-
-LDR: La resistencia varia segun la cantidad de luz.
-
-NTC: Si la temperatura sube la resistencia de los omios baja.
-
-PTC: Si la temperatura sube la resistencia de los omios tambien.
 
 
 
