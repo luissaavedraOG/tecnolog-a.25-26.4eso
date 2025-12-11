@@ -12,13 +12,13 @@ Material resistivo que opone una resistencia fija al paso de corriente.
 -Símbolo eléctrico.
 
 <p align="center">
-<img src="imagenes/AS_resistencia.jpg" width="900" height="900" />
+<img src="imagenes/AS_resistencia.jpg" width="400" height="400" />
 </p>
 
 -Imagen real.
 
 <p align="center">
-<img src="imagenes/AR_resistencia.avif" width="900" height="900" />
+<img src="imagenes/AR_resistencia.avif" width="400" height="00" />
 </p>
 
 -Algunas aplicaciones de uso.
@@ -44,17 +44,13 @@ Cursor móvil que varía el contacto sobre una pista resistiva.
 -Símbolo eléctrico.
 
 <p align="center">
-<img src="imagenes/AS_potenciometro.png" width="900" height="900" />
+<img src="imagenes/AS_potenciometro.jpg" width="400" height="400" />
 </p>
 
 -Imagen real.
 
-
-
-
-
 <p align="center">
-<img src="imagenes/poten_simbolo.png" width="900" height="900" />
+<img src="imagenes/AR_potenciometro.jpg" width="900" height="900" />
 </p>
 
 -Algunas aplicaciones de uso.
