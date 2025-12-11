@@ -12,7 +12,7 @@ Material resistivo que opone una resistencia fija al paso de corriente.
 -Símbolo eléctrico.
 
 <p align="center">
-<img src="imagenes/AS_resistencia.jpg" width="400" height="400" />
+<img src="imagenes/AS_resistencia.jpg" width="900" height="900" />
 </p>
 
 -Imagen real.
