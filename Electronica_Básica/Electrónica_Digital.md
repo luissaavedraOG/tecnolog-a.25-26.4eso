@@ -274,7 +274,40 @@ Implementación interna de memorias, microcontroladores y otros circuitos integr
 <img src="imagenes/nand3_3.jpg" width="800" height="600" />
 </p>
 
+-Tabla de verdad
+
+| a | b | c | s |
+| --- | --- | --- | --- |
+| 0 | 0 | 0 | 1 |
+| 0 | 0 | 1 | 1 |
+| 0 | 1 | 1 | 1 |
+| 1 | 1 | 0 | 1 |
+| 1 | 0 | 1 | 1 |
+| 1 | 1 | 1 | 0 |
+
 
 ### Circuto 3 puertas logicas
 
+<p align="center">
+<img src="imagenes/circuito_ldr_tink.png" width="800" height="600" />
+</p>
 
+<p align="center">
+<img src="imagenes/ 3p_1.jpg" width="800" height="600" />
+</p>
+
+<p align="center">
+<img src="imagenes/ 3p_2.jpg" width="800" height="600" />
+</p>
+
+<p align="center">
+<img src="imagenes/ 3p_3.jpg" width="800" height="600" />
+</p>
+
+<p align="center">
+<img src="imagenes/ 3p_4.jpg" width="800" height="600" />
+</p>
+
+<p align="center">
+<img src="imagenes/ 3p_5.jpg" width="800" height="600" />
+</p>
