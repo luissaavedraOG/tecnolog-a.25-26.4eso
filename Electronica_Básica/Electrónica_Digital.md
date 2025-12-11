@@ -255,3 +255,26 @@ Implementación interna de memorias, microcontroladores y otros circuitos integr
 
 ## Proyectos puertas logicas
 
+
+### Circuito NAND de 3 entradas
+
+<p align="center">
+<img src="imagenes/nand3_0.png" width="300" height="200" />
+</p>
+
+<p align="center">
+<img src="imagenes/nand3_1.png" width="300" height="200" />
+</p>
+
+<p align="center">
+<img src="imagenes/nand3_2.png" width="300" height="200" />
+</p>
+
+<p align="center">
+<img src="imagenes/nand3_3.png" width="300" height="200" />
+</p>
+
+
+### Circuto 3 puertas logicas
+
+
