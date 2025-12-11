@@ -259,19 +259,19 @@ Implementación interna de memorias, microcontroladores y otros circuitos integr
 ### Circuito NAND de 3 entradas
 
 <p align="center">
-<img src="imagenes/nand3_0.jpg" width="300" height="200" />
+<img src="imagenes/nand3_0.jpg" width="600" height="400" />
 </p>
 
 <p align="center">
-<img src="imagenes/nand3_1.jpg" width="300" height="200" />
+<img src="imagenes/nand3e_1.jpg" width="800" height="600" />
 </p>
 
 <p align="center">
-<img src="imagenes/nand3_2.jpg" width="300" height="200" />
+<img src="imagenes/nand3_2.jpg" width="800" height="600" />
 </p>
 
 <p align="center">
-<img src="imagenes/nand3_3.jpg" width="300" height="200" />
+<img src="imagenes/nand3_3.jpg" width="800" height="600" />
 </p>
 
 
