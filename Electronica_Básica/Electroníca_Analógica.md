@@ -3,16 +3,16 @@
 
 -¿Para qué sirve?
 
-Limitar la corriente en circuitos eléctricos y dividir voltajes.
+Sirve para limitar la corriente en circuitos eléctricos y dividir voltajes.
 
 -Funcionamiento interno.
 
-Material resistivo que opone una resistencia fija al paso de corriente.
+En el interior tiene material resistivo que opone una resistencia fija al paso de corriente.
 
 -Símbolo eléctrico.
 
 <p align="center">
-<img src="imagenes/AS_resistencia.jpg" width="900" height="900" />
+<img src="imagenes/AS_resistencia.jpg" width="400" height="400" />
 </p>
 
 -Imagen real.
@@ -23,11 +23,11 @@ Material resistivo que opone una resistencia fija al paso de corriente.
 
 -Algunas aplicaciones de uso.
 
-LEDs, divisores de tensión, filtros.
+Tiene aplicaciones de uso en LEDs, divisores de tensión, filtros.
 
 -Variedades.
 
-De carbón, metálicas, bobinadas, SMD.
+hay variedades de carbón, metálicas, bobinadas, SMD.
 
 ### Resistencias variables
 
