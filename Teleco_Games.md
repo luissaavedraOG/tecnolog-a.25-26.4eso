@@ -37,6 +37,8 @@ Esas vibraciones se convierten en una señal eléctrica que podemos medir para s
 
 Video:
 
+[![](https://img.youtube.com/vi/E7mlcuRCIkQ/0.jpg)](https://www.youtube.com/watch?v=E7mlcuRCIkQ)
+
 Codigo:
 
 <img src="imagenes/codigo_teleco1.png" width="700" height="700" />
@@ -65,6 +67,8 @@ Cuando hay mucha luz su resistencia baja, y cuando hay poca luz su resistencia s
 
 Video:
 
+[![](https://img.youtube.com/vi/Ui3pkOT5Y/0.jpg)](https://www.youtube.com/watch?v=Ui3pkOT5Y)
+
 Codigo:
 
 <img src="imagenes/codigo_teleco1.png" width="700" height="700" />
@@ -79,7 +83,7 @@ Tiene un material sensible al infrarrojo que genera una pequeña señal eléctri
 
 Video:
 
-
+[![](https://img.youtube.com/vi/dypxWQvsMdU/0.jpg)](https://www.youtube.com/watch?v=dypxWQvsMdU)
 
 Codigo:
 
