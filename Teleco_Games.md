@@ -1,16 +1,27 @@
-Jakecrack333
 
-Sensor de humedad
+### Sensor de humedad
+Explicación:
 
-Sensor de presión
+Video:
 
-Sensor de sonido
+Codigo:
 
-Sensor de gas
+### Sensor de presión
 
-LDR(sensor de luz)
+Explicación:
+El sensor de presion tiene una menbrana que combierte la fuerza en una señal electrica que podemos mapear pasaber la fuerza con la que se le esta presionando. Puede servir por ejemplo para detectar si hay alguien sentado en el asiento de un coche
+Video:
+[![](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=nafKf1urKBM)
 
-Sensor PIR(Sensor Infrarojo)
+Codigo:
+
+### Sensor de sonido
+
+### Sensor de gas
+
+### LDR(sensor de luz)
+
+### Sensor PIR(Sensor Infrarojo)
 
 
 Codigo:
