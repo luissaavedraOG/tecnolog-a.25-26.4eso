@@ -13,7 +13,7 @@ El sensor de presion tiene una menbrana que combierte la fuerza en una señal el
 
 Video:
 
-[![](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=nafKf1urKBM)
+[![](https://img.youtube.com/vi/nafKf1urKBM/0.jpg)](https://www.youtube.com/watch?v=nafKf1urKBM)
 
 Codigo:
 
