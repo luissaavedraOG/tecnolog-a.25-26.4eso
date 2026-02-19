@@ -14,7 +14,7 @@ Video:
 [![](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=nafKf1urKBM)
 
 Codigo:
-<img src="imagenes/codigo_teleco1.png" width="100" height="100" />
+<img src="imagenes/codigo_teleco1.png" width="500" height="500" />
 
 ### Sensor de sonido
 
