@@ -25,8 +25,6 @@ void setup() { // se encarga de la configuracion inicial, se ejecuta solo una ve
 Serial.begin (9600); // velocidad de descarga de información baudios
 pinMode (LED6, OUTPUT); // pin 6 de salida
 pinMode (PIR, INPUT); // pin 7 de entrada
-
-
 }
 
 
