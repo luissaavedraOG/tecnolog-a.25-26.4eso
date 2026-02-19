@@ -8,6 +8,8 @@ Ese cambio se convierte en una señal eléctrica que podemos leer para saber cu�
 
 Video:
 
+[![](https://img.youtube.com/vi/yI6TIqMYskk/0.jpg)](https://www.youtube.com/watch?v=yI6TIqMYskk)
+
 Codigo:
 
 <img src="imagenes/codigo_teleco1.png" width="700" height="700" />
