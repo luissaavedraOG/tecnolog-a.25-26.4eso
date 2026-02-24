@@ -1,5 +1,7 @@
 # Plan lector
 
+# Lectura 1
+
 ## __1. Lectura__:Electrónica digital: qué es y características.
 
 https://www.seas.es/blog/automatizacion/electronica-digital-que-es-y-caracteristicas/
@@ -36,3 +38,13 @@ Ese ruido puede causar problemas como interferencias en otros dispositivos cerca
 
 La electrónica digital está en casi todo lo que usamos cada día. Por ejemplo, en móviles, ordenadores, tablets y consolas para procesar información y comunicarnos. También en televisores, routers y electrodomésticos programables que controlan funciones y conectividad. En los coches, gestiona el motor, sistemas de seguridad y ayudas a la conducción. Así, hace posible que la tecnología moderna sea eficiente y práctica.
 
+# Lectura 2
+
+### 1. ¿Cómo podemos aplicar la placa de Arduino al control automático de la agricultura?
+Podemos usar Arduino para automatizar tareas agrícolas, como el riego o el control del clima. Con sensores de humedad, luz o temperatura, Arduino puede decidir cuándo regar las plantas o encender ventiladores y luces. Así, el sistema trabaja solo y ayuda a mantener los cultivos en buenas condiciones.
+
+### 2. ¿Cómo podemos incorporar la placa de Arduino para controlar los datos de nuestro prototipo de invernadero en el aula?
+En el aula, podemos conectar sensores al Arduino para medir temperatura, humedad o luz dentro del invernadero. Luego, los datos se pueden ver en una pantalla o en el ordenador. De esta forma, los estudiantes pueden observar cómo cambian las condiciones y aprender cómo controlar el ambiente del invernadero.
+
+### 3. ¿De qué manera lo puedes hacer?
+Podemos armar el circuito con una placa Arduino, algunos sensores y cables. Después, se programa el Arduino con un código sencillo para leer los datos y activar ventiladores, luces o bombas de agua según los valores que detecten los sensores. Todo se puede hacer paso a paso, probando y observando los resultados.
