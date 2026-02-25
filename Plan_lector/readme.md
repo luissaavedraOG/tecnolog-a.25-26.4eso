@@ -48,3 +48,17 @@ En el aula, podemos conectar sensores al Arduino para medir temperatura, humedad
 
 ### 3. ¿De qué manera lo puedes hacer?
 Podemos armar el circuito con una placa Arduino, algunos sensores y cables. Después, se programa el Arduino con un código sencillo para leer los datos y activar ventiladores, luces o bombas de agua según los valores que detecten los sensores. Todo se puede hacer paso a paso, probando y observando los resultados.
+
+# Lectura 3
+
+### -Qué es la visión artificial:
+La visión artificial es una tecnología que permite a las máquinas “ver” e interpretar imágenes y vídeos. Forma parte de la inteligencia artificial y ayuda a los ordenadores a reconocer objetos, personas o situaciones para tomar decisiones automáticamente.
+
+### -Cómo funciona la visión artificial:
+Primero, una cámara captura una imagen o un vídeo. Después, el sistema mejora esa imagen y la analiza con algoritmos que buscan formas, colores y patrones. Con esa información, decide qué hacer, por ejemplo, avisar de un peligro o marcar un fallo en una pieza.
+
+### -Qué aplicaciones tiene la visión artificial:
+La visión artificial se usa en muchos campos: en coches autónomos para ver la carretera, en cámaras de seguridad para vigilar espacios, en hospitales para analizar radiografías, en fábricas para detectar defectos en productos y en agricultura para vigilar cultivos con cámaras o drones.
+
+### -Aplicación escogida y utilidad en la sociedad (coches autónomos):
+En los coches autónomos, la visión artificial permite que el vehículo “vea” peatones, semáforos y otros coches gracias a las cámaras. El sistema analiza las imágenes en tiempo real y decide si debe frenar, acelerar o girar. Esto ayuda a reducir accidentes, mejorar la seguridad en las carreteras y facilitar el transporte a personas que no pueden conducir.
