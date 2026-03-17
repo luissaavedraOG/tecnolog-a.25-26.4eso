@@ -22,7 +22,7 @@ El sensor de presion tiene una menbrana que combierte la fuerza en una señal el
 
 Imagen:
 
-<img src="imagenes/telecov1_presion.jpg" width="100" height="100" />
+<img src="imagenes/telecov1_presion.jpg" width="700" height="700" />
 
 Video:
 
