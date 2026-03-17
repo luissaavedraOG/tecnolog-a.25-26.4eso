@@ -40,6 +40,10 @@ Un sensor de sonido tiene una pequeña membrana, como la de un micrófono, que v
 
 Esas vibraciones se convierten en una señal eléctrica que podemos medir para saber si hay sonido y qué tan fuerte es. Puede servir, por ejemplo, para que una luz se encienda cuando aplaudes o para medir el ruido en una habitación.
 
+Imagen:
+
+<img src="imagenes/telecov5_sonido.jpg" width="700" height="700" />
+
 Video:
 
 [![](https://img.youtube.com/vi/E7mlcuRCIkQ/0.jpg)](https://www.youtube.com/watch?v=E7mlcuRCIkQ)
@@ -55,6 +59,10 @@ Explicación:
 Un sensor de gas tiene un material sensible que cambia cuando determinadas moléculas de gas entran en contacto con él (por ejemplo, cambia su resistencia o genera una pequeña corriente eléctrica).
 
 Ese cambio se convierte en una señal eléctrica que podemos medir para saber si hay gas y, a veces, cuánto hay. Puede servir, por ejemplo, para detectar fugas de gas en una cocina y activar una alarma o cortar el suministro antes de que haya una explosión.
+
+Imagen:
+
+<img src="imagenes/telecov4_gas.jpg" width="700" height="700" />
 
 Video:
 
