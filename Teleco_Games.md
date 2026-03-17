@@ -78,6 +78,10 @@ Un LDR es una resistencia especial cuya resistencia cambia según la luz que le 
 
 Cuando hay mucha luz su resistencia baja, y cuando hay poca luz su resistencia sube. Esa variación se convierte en una señal eléctrica que podemos usar para saber cuánta luz hay, por ejemplo para encender automáticamente una farola cuando se hace de noche o bajar la intensidad de una luz cuando entra sol por la ventana.
 
+Imagen:
+
+<img src="imagenes/telecov2_LDR.jpg" width="700" height="700" />
+
 Video:
 
 [![](https://img.youtube.com/vi/Ui3pkOT5Y/0.jpg)](https://www.youtube.com/watch?v=Ui3pkOT5Y)
@@ -93,6 +97,10 @@ Explicación:
 Un sensor PIR detecta movimiento “viendo” cambios en el calor (radiación infrarroja) de lo que tiene delante.
 
 Tiene un material sensible al infrarrojo que genera una pequeña señal eléctrica cuando pasa delante algo más caliente que el fondo, como una persona. Esa señal se usa para activar o desactivar cosas, por ejemplo encender una luz cuando alguien entra en una habitación o disparar una alarma si detecta a un intruso.
+
+Imagen:
+
+<img src="imagenes/telecov3_PIR.jpg" width="700" height="700" />
 
 Video:
 
