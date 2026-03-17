@@ -6,6 +6,7 @@ Un sensor de humedad tiene un material sensible (por ejemplo, un polímero) que 
 
 Ese cambio se convierte en una señal eléctrica que podemos leer para saber cuánta humedad hay. Funciona, por ejemplo, para activar un deshumidificador cuando una habitación está demasiado húmeda, o para medir la humedad de la tierra en una maceta y saber si hay que regar.
 
+
 Video:
 
 [![](https://img.youtube.com/vi/yI6TIqMYskk/0.jpg)](https://www.youtube.com/watch?v=yI6TIqMYskk)
@@ -18,6 +19,10 @@ Codigo:
 
 Explicación:
 El sensor de presion tiene una menbrana que combierte la fuerza en una señal electrica que podemos mapear pasaber la fuerza con la que se le esta presionando. Puede servir por ejemplo para detectar si hay alguien sentado en el asiento de un coche.
+
+Imagen:
+
+<img src="imagenes/telecov1_presion.jpg" width="100" height="100" />
 
 Video:
 
