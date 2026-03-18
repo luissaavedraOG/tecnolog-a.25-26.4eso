@@ -140,8 +140,8 @@ delay(100); // esperar 0.1 segundos antes de repetir el void loop
 
 
 
+# Montaje 3D del invernadero
 
-
-
+Con los sensores anteriores ahora podemos montar el invernadero para el proyecto TelecoGames 
 
 ´´´
