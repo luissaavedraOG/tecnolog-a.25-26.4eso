@@ -108,7 +108,7 @@ Video:
 
 Codigo:
 
-__
+```
 int LED6 = 6; // el pin 6
 int PIR = 7; // el pin 7, por donde entra los datos de el sensor PIR
 int lecturaPIR; // variable donde se guardan los datos de la lectura del PIR
@@ -137,8 +137,8 @@ Serial.println("Movimiento no detectado"); // mostrar en el monitor serie "movim
 }
 delay(100); // esperar 0.1 segundos antes de repetir el void loop
 }
-__
 
+```
 
 
 
