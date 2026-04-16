@@ -171,4 +171,4 @@ Con los sensores anteriores ahora podemos montar el invernadero para el proyecto
 | <img src="imagenes/suelo_invernadero1.png width="400" height="400" /> | 
 
 
-<img src="imagenes/pilares_invernadero1.png width="400" height="400" /> 
+<img src="imagenes/pilares_invernadero1.png" width="700" height="700" />
